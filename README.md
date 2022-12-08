@@ -1,5 +1,7 @@
-# Android Studio
-
+# 개발 환경
+* OS : macOS
+* 개발 툴 : Android Studio
+* 언어 : Kotlin
 # 참고서
 * Must Have Joyce의 안드로이드 앱 프로그래밍 with 코틀린
 * 저자 : 홍정아       
@@ -8,4 +10,4 @@
 ### 기능
 * 분, 초 , 밀리초 단위 세기
 * 일시 정지
-* 
+* 초기화
